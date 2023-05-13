@@ -3,7 +3,7 @@
 public class Launcher {
     public static void main(String[] args) {
         int a = 5;
-        int b = 3;
+        int b = 4;
 
         System.out.println(add(a, b));
         System.out.println(sub(a, b));
